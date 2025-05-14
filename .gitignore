@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+.DS_Store
+*.log
+
+# Node.js
+node_modules/
+npm-debug.log*
+
+# React build
+build/
+
+# Flask environment or virtualenv
+venv/
+
+# Python database
+*.sqlite3
+
+# Other common files
+*.csv
+*.json
